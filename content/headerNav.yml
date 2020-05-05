@@ -8,6 +8,6 @@ items:
   - title: Блог
     to: /blog/
     activeSelector: /blog
-  - title: Иттиҳод
+  - title: Ҷомеа
     to: /community/support.html
     activeSelector: /community

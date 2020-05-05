@@ -50,7 +50,7 @@ class Home extends Component {
     return (
       <Layout location={location}>
         <TitleAndMetaTags
-          title="React &ndash; Китобхонаи JavaScript барои сохти робитаҳои (интерфейсҳои) корбар"
+          title="React &ndash; Китобхонаи JavaScript барои сохтани интерфейсҳои корбар"
           canonicalUrl={createCanonicalUrl('/')}
         />
         <div css={{width: '100%'}}>
