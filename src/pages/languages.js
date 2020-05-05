@@ -47,7 +47,7 @@ const Languages = ({location}: Props) => (
     <Container>
       <div css={sharedStyles.articleLayout.container}>
         <div css={sharedStyles.articleLayout.content}>
-          <Header>Languages</Header>
+          <Header>Забонҳо</Header>
           <TitleAndMetaTags
             canonicalUrl={`${urlRoot}/languages/`}
             title="React - Languages"

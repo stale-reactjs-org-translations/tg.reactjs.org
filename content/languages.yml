@@ -151,6 +151,10 @@
   translated_name: Svenska
   code: sv
   status: 0
+- name: Tajik
+  translated_name: Тоҷикӣ
+  code: tg
+  status: 0
 - name: Tamil
   translated_name: தமிழ்
   code: ta

@@ -1,24 +1,24 @@
 community:
-  title: Community
+  title: Иттиҳод
 
 docs:
-  title: Docs
+  title: Ҳуҷҷатҳо
 
 more:
-  title: More
+  title: Маълумоти иловагӣ
   items:
-    - title: Tutorial
+    - title: Дастурамал
       to: /tutorial/tutorial.html
-    - title: Blog
+    - title: Блог
       to: /blog
-    - title: Acknowledgements
+    - title: Изҳори сипос
       to: /acknowledgements.html
     - title: React Native
       to: https://reactnative.dev/
       external: true
 
 channels:
-  title: Channels
+  title: Сомонаҳо
   items:
     - title: GitHub
       to: https://github.com/facebook/react
