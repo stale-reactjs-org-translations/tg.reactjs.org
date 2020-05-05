@@ -19,14 +19,14 @@ const Acknowlegements = ({data, location}) => (
     <Container>
       <div css={sharedStyles.articleLayout.container}>
         <div css={sharedStyles.articleLayout.content}>
-          <Header>Acknowledgements</Header>
+          <Header>Изҳори сипос</Header>
           <TitleAndMetaTags
             canonicalUrl={`${urlRoot}/acknowledgements.html`}
             title="React - Acknowledgements"
           />
 
           <div css={sharedStyles.markdown}>
-            <p>We'd like to thank all of our contributors:</p>
+            <p>Мо ба ҳамаи саҳмгузорон як чаҳон ташаккур мегӯем:</p>
 
             <ul
               css={{
@@ -44,38 +44,35 @@ const Acknowlegements = ({data, location}) => (
               ))}
             </ul>
 
-            <p>In addition, we're grateful to</p>
+            <p>Алалхусус, ба саҳмгузорони зерин миннатдорем:</p>
             <ul>
               <li>
-                <a href="https://github.com/jeffbski">Jeff Barczewski</a> for
-                allowing us to use the{' '}
-                <a href="https://www.npmjs.com/package/react">react</a> package
-                name on npm.
+                <a href="https://github.com/jeffbski">Jeff Barczewski </a>
+                ба мо имкони истифодаи бастаи {' '}
+                <a href="https://www.npmjs.com/package/react">react</a> бо номи npm -ро  пешниҳод кард.
               </li>
               <li>
-                <a href="https://christopheraue.net/">Christopher Aue</a> for
-                letting us use the{' '}
-                <a href="https://reactjs.com/">reactjs.com</a> domain name and
-                the <a href="https://twitter.com/reactjs">@reactjs</a> username
-                on Twitter.
+                <a href="https://christopheraue.net/">Christopher Aue</a>  ба
+                 мо имкон медиҳад то  домени {' '}
+                <a href="https://reactjs.com/">reactjs.com</a> ва ҳисоб-ном дар Twitter <a href="https://twitter.com/reactjs">@reactjs</a> бемалол истифода барем.
+
               </li>
               <li>
-                <a href="https://github.com/ProjectMoon">ProjectMoon</a> for
-                letting us use the{' '}
-                <a href="https://www.npmjs.com/package/flux">flux</a> package
-                name on npm.
+                <a href="https://github.com/ProjectMoon">ProjectMoon</a> ба
+                мо имкони истифодаи бастаи бо номи {' '}
+                <a href="https://www.npmjs.com/package/flux">flux</a> -ро пешниҳод кард.
               </li>
               <li>
-                Shane Anderson for allowing us to use the{' '}
-                <a href="https://github.com/react">react</a> org on GitHub.
+                Shane Anderson ба мо имкон дод то истифодаи {' '}
+                <a href="https://github.com/react">react</a> org дар GitHub бемалол бошад.
               </li>
               <li>
                 <a href="https://github.com/voronianski">Dmitri Voronianski</a>{' '}
-                for letting us use the{' '}
+                ба мо иҷозат дод то нақшаи рангии {' '}
                 <a href="https://labs.voronianski.com/oceanic-next-color-scheme/">
                   Oceanic Next
-                </a>{' '}
-                color scheme on this website.
+                </a>{' '}-ро
+                дар сомонаи худ истифода барем.
               </li>
             </ul>
           </div>
