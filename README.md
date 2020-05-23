@@ -16,7 +16,7 @@ This repo contains the source code and documentation powering [reactjs.org](http
 
 1. `cd reactjs.org` to go into the project root
 1. `yarn` to install the website's npm dependencies
--   `nvm use 12.16.3`
+
 ### Running locally
 
 1. `yarn dev` to start the hot-reloading development server (powered by [Gatsby](https://www.gatsbyjs.org))
@@ -68,3 +68,11 @@ If your language does not have a translation and you would like to create one, p
 
 ## License
 Content submitted to [reactjs.org](https://reactjs.org/) is CC-BY-4.0 licensed, as found in the [LICENSE-DOCS.md](https://github.com/open-source-explorer/reactjs.org/blob/master/LICENSE-DOCS.md) file.
+
+
+## Use-case shortcut
+
+- `nvm use 12.16.3`
+- `yarn dev`
+- `/Users/Student/reactjs.org/content/home/examples`
+
