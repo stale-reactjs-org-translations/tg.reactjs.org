@@ -75,4 +75,7 @@ Content submitted to [reactjs.org](https://reactjs.org/) is CC-BY-4.0 licensed, 
 - `nvm use 12.16.3`
 - `yarn dev`
 - `/Users/Student/reactjs.org/content/home/examples`
+- `git add -A`
+- `git commit -m "feat: add tajik translation to first block hello-example"`
+- `git push https://github.com/HalimHamidov/tg.reactjs.org.git`
 
