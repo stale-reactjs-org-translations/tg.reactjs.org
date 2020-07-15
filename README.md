@@ -68,3 +68,14 @@ If your language does not have a translation and you would like to create one, p
 
 ## License
 Content submitted to [reactjs.org](https://reactjs.org/) is CC-BY-4.0 licensed, as found in the [LICENSE-DOCS.md](https://github.com/open-source-explorer/reactjs.org/blob/master/LICENSE-DOCS.md) file.
+
+
+## Use-case shortcut
+
+- `nvm use 12.16.3`
+- `yarn dev`
+- `/Users/Student/reactjs.org/content/home/examples`
+- `git add -A`
+- `git commit -m "feat: add tajik translation to first block hello-example"`
+- `git push https://github.com/HalimHamidov/tg.reactjs.org.git`
+
